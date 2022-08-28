@@ -294,15 +294,15 @@ header{
 .profile_img_wrap img{
     position: relatvie;
     float: left;
-    margin: 10px 0  0 -32px;
+    margin: -10px 0  0 -75px;
     width: 145%;
     display: block;
 }
 .profile_img_wrap_dash_border_back img{
     position: relatvie;
     float: left;
-    margin: -21px 0px 0 -29px;
-    width: 130%;
+    margin: 0px 0px 0 -45px;
+    width: 150%;
     display: block;
 }
 .nickname{
