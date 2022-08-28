@@ -283,7 +283,7 @@ close_btn_wrap.addEventListener('click', () => {
 //view map controll
 let container = document.querySelector('.map');
 let options = {
-    center: new kakao.maps.LatLng(33.450701, 126.570667),
+    center: new kakao.maps.LatLng(37.4966, 126.8454),
     level: 3
 };
 
