@@ -53,6 +53,10 @@
         width: 257px;
         height: 152px;
     }
+    .map_wrapper{
+        width: 800px;
+        height: 800px;
+    }
 }
 @media screen and (max-width:1060px){
     .speech_bubble_left{
@@ -154,7 +158,8 @@
         height: 138px;
     }
     .map_wrapper{
-        width: 80%;
+        width: 650px;
+        height: 650px;
     }
 }
 @media screen and (max-width:800px){
@@ -264,6 +269,10 @@
         width: 305px;
         height: 147px;
     }
+    .map_wrapper{
+        width: 540px;
+        height: 540px;
+    }
 }
 @media screen and (max-width:600px){
     body{
@@ -296,6 +305,10 @@
     }
     .message_wrap{
         padding-left: 100px;
+    }
+    .map_wrapper{
+        width: 400px;
+        height: 400px;
     }
 }
 @media screen and (max-width:510px){
@@ -416,6 +429,10 @@
     .message_card{
         width: 305px;
         height: 147px;
+    }
+    .map_wrapper{
+        width: 350px;
+        height: 350px;
     }
 }
 @media screen and (max-width:370px){

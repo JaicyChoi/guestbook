@@ -578,12 +578,16 @@ header{
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
-    width: 75%;
-    max-width: 1000px;
+    width: 1000px;
+    height: 1000px;
 }
 .map{
     display: block;
     width: 100%;
+    height: 100%;
+}
+.map_close{
+    
 }
 .go_top{
     position:fixed;
@@ -607,4 +611,4 @@ button{
 }
 .go_top:hover{
     opacity: 1;
-}햣ㅌ햣
+}
