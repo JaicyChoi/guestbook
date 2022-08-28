@@ -70,6 +70,10 @@
         width: 170px;
         margin: 210px 0 0 580px;
     }
+    .map_close{
+        width: 40px;
+        height: 40px;
+    }
 }
 @media screen and (max-width:960px){
     .timeline{
@@ -291,6 +295,10 @@
     .message_wrap{
         padding-left: 145px;
     }
+    .map_close{
+        width: 37px;
+        height: 37px;
+    }
 }
 @media screen and (max-width:540px){
     .speech_bubble_right{
@@ -401,6 +409,10 @@
      .map_wrapper{
         width: 90%;
     }
+    .map_close{
+        width: 35px;
+        height: 35px;
+    }
 }
 @media screen and (max-width:440px){
     .message_wrap{
@@ -433,6 +445,10 @@
     .map_wrapper{
         width: 350px;
         height: 350px;
+    }
+    .map_close{
+        width: 32px;
+        height: 32px;
     }
 }
 @media screen and (max-width:370px){
