@@ -289,3 +289,11 @@ view_map.addEventListener('click', () => {
     body.classList.remove('srolllock')
     view_map.classList.remove('show');
 });
+
+let container = document.querySelector('.map');
+let options = {
+    center: new kakao.maps.LatLng(33.450701, 126.570667),
+    level: 3
+};
+
+let map = new kakao.maps.Map(container, options);

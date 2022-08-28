@@ -581,7 +581,7 @@ header{
     width: 75%;
     max-width: 1000px;
 }
-.map_wrapper img{
+.map{
     display: block;
     width: 100%;
 }
