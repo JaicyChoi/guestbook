@@ -294,8 +294,8 @@ header{
 .profile_img_wrap img{
     position: relatvie;
     float: left;
-    margin: -10px 0  0 -75px;
-    width: 145%;
+    margin: 0px 0  0 -75px;
+    width: 150%;
     display: block;
 }
 .profile_img_wrap_dash_border_back img{
